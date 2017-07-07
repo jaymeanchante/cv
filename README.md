@@ -1,11 +1,11 @@
 # Jayme Tolpolar Anchante
 
-|Basic information| |
-| ------------------ |
-| E-mail | jt_anchante@hotmail.com |
-| Phone | +55 51 984786223|
-| GitHub |https://github.com/jayme-anchante/|
-| Kaggle | https://www.kaggle.com/jtanchante/ |
+Basic Information | |
+--- | ---
+e-Mail: | jt_anchante@hotmail.com |
+Phone: | +55 51 98478 6223 |
+GitHub Profile: | [jayme-anchante](https://github.com/jayme-anchante) |
+Kaggle Profile: | [jtanchante](https://kaggle.com/jtanchante) |
 
 ## Summary
 
