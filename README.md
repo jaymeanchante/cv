@@ -58,4 +58,4 @@ Lattes Profiles: | http://lattes.cnpq.br/4915778228715228 |
 - Franch (basic)
 
 ## Publications
-ANCHANTE, J. A.; HERRLEIN JR., R. Congestionamento de trânsito: uma abordagem de teoria econômica acerca da expansão da capacidade viária, da cobrança de pedágio e do uso da bicicleta como modal alternativo. Revista dos Transportes Públicos, n. 144, p. 87-109, 2016
+ANCHANTE, J. A.; HERRLEIN JR., R. Congestionamento de trânsito: uma abordagem de teoria econômica acerca da expansão da capacidade viária, da cobrança de pedágio e do uso da bicicleta como modal alternativo. *Revista dos Transportes Públicos*, n. 144, p. 87-109, 2016
