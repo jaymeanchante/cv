@@ -38,3 +38,24 @@ Lattes Profiles: | http://lattes.cnpq.br/4915778228715228 |
 #### B. sc. in Economics
 
 > Federal University of Rio Grande do Sul (UFRGS), Brazil. B. sc. thesis title: Orientação de políticas de combate ao congestionamento. Advisor: Ronaldo Herrlein Jr.
+
+## Technical Background
+- Programming Languages:
+ - Advanced: Stata
+ - Intermediate: Python
+ - Basic: R
+- Frameworks:
+ - Stata: microeconometrics, linear model, discrete choicel models
+ - Python: NumPy, Pandas, Matplotlib, Scikit-Learn
+- Operating Systems: Linux Mint, Windows 7/10
+- Versioning: GitHub
+
+## Laguages:
+- Portuguese (mother tongue)
+- English (advanced)
+- Spanish (intermediate)
+- Hebrew (basic)
+- Franch (basic)
+
+## Publications
+ANCHANTE, J. A.; HERRLEIN JR., R. Congestionamento de trânsito: uma abordagem de teoria econômica acerca da expansão da capacidade viária, da cobrança de pedágio e do uso da bicicleta como modal alternativo. Revista dos Transportes Públicos, n. 144, p. 87-109, 2016
