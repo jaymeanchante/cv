@@ -1,38 +1,40 @@
-title,author,genre1,genre2,first_published,title_eng,year_I_read,language_I_read,star,sinopsis
-Sapiens - uma breve história da humanidade,Yuval Noah Harari,history,biology,2011,Sapiens - uma breve história da humanidade,2017,portuguese,,
-Pais e filhos,Ivan Turgenev,philosophy,autobiography,1862,Fathers and Sons,2017,portuguese,,
-Ganhando Meu Pão,Maksim Gorky,autobiography,novel,1916,In the world,2017,portuguese,,
-Knulp,Hermann Hesse,novel,autobiography,1915,Knulp,2017,portuguese,,
-A Ponte dos Judeus,Martí Gironell,novel,history,2007,,2017,portuguese,,
-The Old Man and the Sea,Ernest Hemingway,fiction,,1952,,2017,english,,
-O Edifício do Lado da Sombra,Luís Augusto Fischer,shortstories,fiction,1996,,2017,portuguese,,
-Sal na Pedra,Luciano Alabarse,poetry,,1996,,2017,portuguese,,
-On the Road - Pé na Estrada,Jack Kerouac,beat,road,1957,On the Road,2016,portuguese,,
-Misto Quente,Charles Bukowski,autobiography,fiction,1982,Ham on Rye,2016,portuguese,,
-Senhor e servo & outras histórias,Liev Tolstói,shortstories,,1895,Master and Man and other stories,1991,portuguese,,
-A Morte de Ivan Ilyich,Liev Tolstói,novel,,1886,The Death of Ivan Ilyich,1991,portuguese,,
-Contos Gauchescos e Lendas do Sul,João Simões Lopes Neto,shortstories,history,1912,,1991,portuguese,,
-Odds On,John Lange,fiction,action,1966,,2016,english,3,Odds On is about a robbery planned with the help of a computer program.
-A Case of Need,Jeffrey Hudson,fiction,medicine,1968,,1991,english,,A Case of Need is a medical thriller about a pathologist.
-The Andromeda Strain,Michael Crichton,sci-fi,,1969,,1991,english,4,The Andromeda Strain is a thriller about a team of scientists who are investigating a deadly extraterrestrial microorganism that rapidly and fatally clots human blood.
-The Venom Business,John Lange,fiction,adventure,1969,,1991,english,4,The Venom Business is about a smuggler in Mexico who ships snakes.
-Zero Cool,John Lange,fiction,history,1969,,1991,english,3,Zero Cool is about a man who gets caught in a fight over a precious artifact while he is on vacation in Spain.
-Five Patients,Michael Crichton,autobiography,medicine,1970,,1991,english,4,This nonfiction book recounts Crichton's experience at Massachusetts General Hospital in Boston in the late 1960s.
-Grave Descend,John Lange,fiction,action,1970,,1991,english,3,Grave Descend is a mystery about a deep sea diver in Jamaica.
-Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues,Michael Douglas,fiction,action,1970,,1991,english,2,
-Binary,John Lange,fiction,thriller,1972,,2015,english,3,Binary is about a middle-class small businessman who decides to assassinate the President by stealing an army shipment of the two chemicals that form a deadly nerve agent.
-The Great Train Robbery,Michael Crichton,history,romance,1975,,1991,english,5,This book is about the Great Gold Robbery of 1855 and takes place in London.
-Devoradores de Mortos,Michael Crichton,history,romance,1976,Eaters of the Dead,1991,portuguese,4,Eaters of the Dead is about a Muslim in the 10th century who travels with a group of Vikings to their settlement.
-Congo,Michael Crichton,fiction,adventure,1980,,1991,portuguese,4,Congo is about a diamond expedition in the rain forest of Congo that is attacked by killer gorillas.
-A Esfera,Michael Crichton,sci-fi,thriller,1987,Sphere,1991,portuguese,5,Sphere is the story of a psychologist who is called by U.S. Navy to join a team of scientists to examine an enormous spacecraft discovered on the bottom of the Pacific Ocean.
-Álbum de Viagens,Michael Crichton,autobiography,travel,1988,Travels,1991,portuguese,5,This nonfiction memoir tells about Crichton's work as a doctor and travels around the world.
-Jurassic Park,Michael Crichton,sci-fi,adventure,1990,,2017,english,4,Jurassic Park is a science fiction thriller about dinosaurs who are recreated through DNA.
-Rising Sun,Michael Crichton,thriller,mystery,1992,,1991,english,4,Rising Sun is about a murder at the Los Angeles headquarters of a Japanese company.
-Revelação,Michael Crichton,thriller,,1994,Disclosure,1991,portuguese,4,"Disclosure us about Tom Sanders, who works in a high-tech company just before the beginning of the dot-com economic boom and is wrongly accused of sexual harassment."
-Armadilha Aérea,Michael Crichton,thriller,,1996,Airframe,1991,portuguese,3,"Airframe is about Casey Singleton, a quality assurance vice-president at the fictional aerospace manufacturer Norton Aircraft, who is investigating an accident that left three passengers dead and fifty-six injured."
-Timeline,Michael Crichton,sci-fi,history,1999,,1991,english,4,Timeline is about a team of historians who travels to the Middle Ages to retrieve a fellow historian who is trapped there.
-Prey,Michael Crichton,thriller,action,2002,,1991,english,4,Prey follows a software designer as he is called in to consult on an emergency situation regarding experimental nano-robots.
-Next,Michael Crichton,sci-fi,,2006,,1991,portuguese,4,"In Next, Crichton brings up some provocative dilemmas dealing with the topic of genetic testing and ownership."
-Pirate Latitudes,Michael Crichton,adventure,history,2009,,2016,portuguese,5,It is a pirate yarn in the tradition of Treasure Island.
-Micro,"Michael Crichton, Richard Preston",sci-fi,thriller,2011,,1991,portuguese,5,A group of graduate students trapped in the Hawaiian rain forest after coming to Hawaii to work for a mysterious Biotech company.
-A Montanha Mágica,Thoman Mann,novel,autobiography,1924,The Magic Montain,1991,portuguese,5,
+title,author,genre1,genre2,first_published,title_eng,year_I_read,language_I_read,sinopsis
+Sapiens - uma breve história da humanidade,Yuval Noah Harari,history,biology,2011,Sapiens - uma breve história da humanidade,2017,portuguese,
+Pais e filhos,Ivan Turgenev,philosophy,autobiography,1862,Fathers and Sons,2017,portuguese,
+Ganhando Meu Pão,Maksim Gorky,autobiography,novel,1916,In the world,2017,portuguese,
+Knulp,Hermann Hesse,novel,autobiography,1915,Knulp,2017,portuguese,
+A Ponte dos Judeus,Martí Gironell,novel,history,2007,,2017,portuguese,
+The Old Man and the Sea,Ernest Hemingway,fiction,,1952,,2017,english,
+O Edifício do Lado da Sombra,Luís Augusto Fischer,shortstories,fiction,1996,,2017,portuguese,
+Sal na Pedra,Luciano Alabarse,poetry,,1996,,2017,portuguese,
+On the Road - Pé na Estrada,Jack Kerouac,beat,road,1957,On the Road,2016,portuguese,
+Misto Quente,Charles Bukowski,autobiography,fiction,1982,Ham on Rye,2016,portuguese,
+Senhor e servo & outras histórias,Liev Tolstói,shortstories,,1895,Master and Man and other stories,1991,portuguese,
+A Morte de Ivan Ilyich,Liev Tolstói,novel,,1886,The Death of Ivan Ilyich,1991,portuguese,
+Contos Gauchescos e Lendas do Sul,João Simões Lopes Neto,shortstories,history,1912,,1991,portuguese,
+Odds On,John Lange,fiction,action,1966,,2016,english,Odds On is about a robbery planned with the help of a computer program.
+A Case of Need,Jeffrey Hudson,fiction,medicine,1968,,1991,english,A Case of Need is a medical thriller about a pathologist.
+The Andromeda Strain,Michael Crichton,sci-fi,,1969,,1991,english,The Andromeda Strain is a thriller about a team of scientists who are investigating a deadly extraterrestrial microorganism that rapidly and fatally clots human blood.
+The Venom Business,John Lange,fiction,adventure,1969,,1991,english,The Venom Business is about a smuggler in Mexico who ships snakes.
+Zero Cool,John Lange,fiction,history,1969,,1991,english,Zero Cool is about a man who gets caught in a fight over a precious artifact while he is on vacation in Spain.
+Five Patients,Michael Crichton,autobiography,medicine,1970,,1991,english,This nonfiction book recounts Crichton's experience at Massachusetts General Hospital in Boston in the late 1960s.
+Grave Descend,John Lange,fiction,action,1970,,1991,english,Grave Descend is a mystery about a deep sea diver in Jamaica.
+Dealing: Or the Berkeley-to-Boston Forty-Brick Lost-Bag Blues,Michael Douglas,fiction,action,1970,,1991,english,
+Binary,John Lange,fiction,thriller,1972,,2015,english,Binary is about a middle-class small businessman who decides to assassinate the President by stealing an army shipment of the two chemicals that form a deadly nerve agent.
+The Great Train Robbery,Michael Crichton,history,romance,1975,,1991,english,This book is about the Great Gold Robbery of 1855 and takes place in London.
+Devoradores de Mortos,Michael Crichton,history,romance,1976,Eaters of the Dead,1991,portuguese,Eaters of the Dead is about a Muslim in the 10th century who travels with a group of Vikings to their settlement.
+Congo,Michael Crichton,fiction,adventure,1980,,1991,portuguese,Congo is about a diamond expedition in the rain forest of Congo that is attacked by killer gorillas.
+A Esfera,Michael Crichton,sci-fi,thriller,1987,Sphere,1991,portuguese,Sphere is the story of a psychologist who is called by U.S. Navy to join a team of scientists to examine an enormous spacecraft discovered on the bottom of the Pacific Ocean.
+Álbum de Viagens,Michael Crichton,autobiography,travel,1988,Travels,1991,portuguese,This nonfiction memoir tells about Crichton's work as a doctor and travels around the world.
+Jurassic Park,Michael Crichton,sci-fi,adventure,1990,,2017,english,Jurassic Park is a science fiction thriller about dinosaurs who are recreated through DNA.
+Rising Sun,Michael Crichton,thriller,mystery,1992,,1991,english,Rising Sun is about a murder at the Los Angeles headquarters of a Japanese company.
+Revelação,Michael Crichton,thriller,,1994,Disclosure,1991,portuguese,"Disclosure us about Tom Sanders, who works in a high-tech company just before the beginning of the dot-com economic boom and is wrongly accused of sexual harassment."
+Armadilha Aérea,Michael Crichton,thriller,,1996,Airframe,1991,portuguese,"Airframe is about Casey Singleton, a quality assurance vice-president at the fictional aerospace manufacturer Norton Aircraft, who is investigating an accident that left three passengers dead and fifty-six injured."
+Timeline,Michael Crichton,sci-fi,history,1999,,1991,english,Timeline is about a team of historians who travels to the Middle Ages to retrieve a fellow historian who is trapped there.
+Prey,Michael Crichton,thriller,action,2002,,1991,english,Prey follows a software designer as he is called in to consult on an emergency situation regarding experimental nano-robots.
+Next,Michael Crichton,sci-fi,,2006,,1991,portuguese,"In Next, Crichton brings up some provocative dilemmas dealing with the topic of genetic testing and ownership."
+Pirate Latitudes,Michael Crichton,adventure,history,2009,,2016,portuguese,It is a pirate yarn in the tradition of Treasure Island.
+Micro,"Michael Crichton, Richard Preston",sci-fi,thriller,2011,,1991,portuguese,A group of graduate students trapped in the Hawaiian rain forest after coming to Hawaii to work for a mysterious Biotech company.
+A Montanha Mágica,Thoman Mann,novel,autobiography,1924,The Magic Montain,1991,portuguese,
+The Ingenious Nobleman Sir Quixote of La Mancha,Miguel de Cervantes,novel,chivalry,1605,The Ingenious Nobleman Sir Quixote of La Mancha,2018,portuguese,The story follows the adventures of a noble (hidalgo) named Alonso Quixano who reads so many chivalric romances that he loses his sanity and decides to set out to revive chivalry
+O Enigma de Espinoza,Irvin D. Yalom,novel,philosophy,2012,The Spinoza Problem: A Novel,2018,portuguese,A novel by the masterful storyteller and psychotherapist Irvin Yalom interweaves the philosophical life of Benedict Spinoza with the story of the obsessive Nazi philosopher Alfred Rosenberg
