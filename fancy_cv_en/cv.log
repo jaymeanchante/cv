@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.6.27)  2 JUL 2018 13:03
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.6.27)  12 SEP 2018 23:33
  restricted system commands enabled.
 **cv.tex
 (./cv.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.119 seconds
+luaotfload | main : initialization completed in 0.127 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (./friggeri-cv.cls
 Document Class: friggeri-cv 2012/04/30 CV class
@@ -536,25 +536,13 @@ ex)
 . Defining command \RenewNegationCommand with sig. 'mm' on line 3848.
 .................................................
 ))(load luc: /home/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/t
-exgyreheros-regular.luc)(save: /home/jayme/.texlive2018/texmf-var/luatex-cache/g
-eneric/fonts/otl/texgyreheros-regular.lua)(save: /home/jayme/.texlive2018/texmf-
-var/luatex-cache/generic/fonts/otl/texgyreheros-regular.luc)
+exgyreheros-regular.luc)
 \g__fontspec_family_texgyreheros-regular.otf_int=\count187
 (load luc: /home/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/tex
-gyreheros-bold.luc)(save: /home/jayme/.texlive2018/texmf-var/luatex-cache/generi
-c/fonts/otl/texgyreheros-bold.lua)(save: /home/jayme/.texlive2018/texmf-var/luat
-ex-cache/generic/fonts/otl/texgyreheros-bold.luc)(load luc: /home/jayme/.texlive
-2018/texmf-var/luatex-cache/generic/fonts/otl/texgyreheros-italic.luc)(save: /ho
-me/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/texgyreheros-ital
-ic.lua)(save: /home/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/
-texgyreheros-italic.luc)(load luc: /home/jayme/.texlive2018/texmf-var/luatex-cac
-he/generic/fonts/otl/texgyreheros-bolditalic.luc)(save: /home/jayme/.texlive2018
-/texmf-var/luatex-cache/generic/fonts/otl/texgyreheros-bolditalic.lua)(save: /ho
-me/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/texgyreheros-bold
-italic.luc)(load luc: /home/jayme/.texlive2018/texmf-var/luatex-cache/generic/fo
-nts/otl/lato-light.luc)(save: /home/jayme/.texlive2018/texmf-var/luatex-cache/ge
-neric/fonts/otl/lato-light.lua)(save: /home/jayme/.texlive2018/texmf-var/luatex-
-cache/generic/fonts/otl/lato-light.luc)
+gyreheros-bold.luc)(load luc: /home/jayme/.texlive2018/texmf-var/luatex-cache/ge
+neric/fonts/otl/texgyreheros-italic.luc)(load luc: /home/jayme/.texlive2018/texm
+f-var/luatex-cache/generic/fonts/otl/texgyreheros-bolditalic.luc)(load luc: /hom
+e/jayme/.texlive2018/texmf-var/luatex-cache/generic/fonts/otl/lato-light.luc)
 \g__fontspec_family_Lato-Light.ttf_int=\count188
 luaotfload | aux : font no 30 (nil) does not define feature smcp for script latn
  with language dflt
@@ -1512,29 +1500,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--60
  []
 
 
-Overfull \hbox (31.05872pt too wide) in alignment at lines 63--102
+Overfull \hbox (31.05872pt too wide) in alignment at lines 63--108
 [] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--123
+Underfull \hbox (badness 10000) in paragraph at lines 63--109
 
  []
 
 [1
 
 {/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 112--129
+
+ []
+
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'cv.run.xml'.
@@ -1548,17 +1535,17 @@ Here is how much of LuaTeX's memory you used:
  434 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 6 attribute, 57 glue_spec, 5 attribute_list
 , 1 write nodes
-   avail lists: 1:3,2:1244,3:169,4:216,5:284,6:56,7:3439,8:28,9:218,10:7,11:253
+   avail lists: 1:1,2:1116,3:155,4:194,5:271,6:49,7:3203,8:23,9:192,10:7,11:247
  40000 multiletter control sequences out of 65536+600000
  68 fonts using 17765071 bytes
  73i,9n,88p,999b,740s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/public/lm-math/latinmodern-ma
 th.otf><./texgyreheros-italic.otf><./texgyreheros-bold.otf><./texgyreheros-regul
 ar.otf><./Lato-Light.ttf>
-Output written on cv.pdf (2 pages, 28530 bytes).
+Output written on cv.pdf (2 pages, 29170 bytes).
 
-PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
+PDF statistics: 71 PDF objects out of 1000 (max. 8388607)
+ 51 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 131072)
  16 words of extra memory for PDF output out of 10000 (max. 100000000)
 
